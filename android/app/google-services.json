@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465077722877",
+    "project_id": "happy-buy-aa542",
+    "storage_bucket": "happy-buy-aa542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465077722877:android:c4cadce7e0918674ebe894",
+        "android_client_info": {
+          "package_name": "bd.com.happybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465077722877-ejipq6599r12gggrho3qrlem07gg8dch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXWWFJOWc8ocq7N5DXhVyGtg-07uuplw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465077722877-ejipq6599r12gggrho3qrlem07gg8dch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
